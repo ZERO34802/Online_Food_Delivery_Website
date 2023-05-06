@@ -2,7 +2,7 @@
 ## About the project
 The Simple Online Food Ordering System has the admin side and visitor/client-side. The admin will manage all the data needed for the website more importantly the list of available menus. The client will browse the website, explore and choose his/her desired menu's and save it to cart for later checkout. After that, the client will go to the cart, review his/ her order, confirm the delivery address and other information, and place his/ her order. 
 ## Demo
-<img src="screenshot/onlinefooddelivery_gif.gif" width="800">
+<img src="screenshots/onlinefooddelivery_gif.gif" width="800">
 ## Features
 ### Admin Side
 #### Login Page
